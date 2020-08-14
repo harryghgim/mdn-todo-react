@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mdn-todo-react/static/css/main.220fcbac.chunk.css",
+    "main.js": "/mdn-todo-react/static/js/main.a4dfef68.chunk.js",
+    "main.js.map": "/mdn-todo-react/static/js/main.a4dfef68.chunk.js.map",
+    "runtime-main.js": "/mdn-todo-react/static/js/runtime-main.ff400250.js",
+    "runtime-main.js.map": "/mdn-todo-react/static/js/runtime-main.ff400250.js.map",
+    "static/js/2.0c51fe6b.chunk.js": "/mdn-todo-react/static/js/2.0c51fe6b.chunk.js",
+    "static/js/2.0c51fe6b.chunk.js.map": "/mdn-todo-react/static/js/2.0c51fe6b.chunk.js.map",
+    "index.html": "/mdn-todo-react/index.html",
+    "precache-manifest.679e8b40cf7688fdaf02c2bf35217cff.js": "/mdn-todo-react/precache-manifest.679e8b40cf7688fdaf02c2bf35217cff.js",
+    "service-worker.js": "/mdn-todo-react/service-worker.js",
+    "static/css/main.220fcbac.chunk.css.map": "/mdn-todo-react/static/css/main.220fcbac.chunk.css.map",
+    "static/js/2.0c51fe6b.chunk.js.LICENSE.txt": "/mdn-todo-react/static/js/2.0c51fe6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff400250.js",
+    "static/js/2.0c51fe6b.chunk.js",
+    "static/css/main.220fcbac.chunk.css",
+    "static/js/main.a4dfef68.chunk.js"
+  ]
+}
